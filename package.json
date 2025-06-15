@@ -1,5 +1,5 @@
 {
-    "name": "GSAPAnimation",
+    "name": "gsapanimation",
     "version": "1.0.0",
     "description": "A robust animation library powered by GSAP for motion effects.",
     "main": "index.js",
